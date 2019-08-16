@@ -1,4 +1,4 @@
-#Proposed spec for webhost.report
+# Proposed spec for webhost.report
 The idea of this is to provide the basics of how the system will function.
 
 ## What is webhost.report
